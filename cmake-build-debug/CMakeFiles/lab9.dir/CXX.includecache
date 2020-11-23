@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/main.cpp
+iostream
+-
+treeNode.h
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.h
+
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.cpp
+node.h
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.h
+
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.h
+iostream
+-
+
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.cpp
+treeNode.h
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.h
+
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.h
+node.h
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.h
+array
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/array
+string
+/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/string
+
