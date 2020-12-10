@@ -63,10 +63,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9"
+CMAKE_SOURCE_DIR = "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/lab9.dir/depend.make
@@ -79,42 +79,42 @@ include CMakeFiles/lab9.dir/flags.make
 
 CMakeFiles/lab9.dir/main.cpp.o: CMakeFiles/lab9.dir/flags.make
 CMakeFiles/lab9.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab9.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9.dir/main.cpp.o -c "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab9.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9.dir/main.cpp.o -c "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/main.cpp"
 
 CMakeFiles/lab9.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab9.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/main.cpp" > CMakeFiles/lab9.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/main.cpp" > CMakeFiles/lab9.dir/main.cpp.i
 
 CMakeFiles/lab9.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab9.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/main.cpp" -o CMakeFiles/lab9.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/main.cpp" -o CMakeFiles/lab9.dir/main.cpp.s
 
 CMakeFiles/lab9.dir/node.cpp.o: CMakeFiles/lab9.dir/flags.make
 CMakeFiles/lab9.dir/node.cpp.o: ../node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab9.dir/node.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9.dir/node.cpp.o -c "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab9.dir/node.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9.dir/node.cpp.o -c "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.cpp"
 
 CMakeFiles/lab9.dir/node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab9.dir/node.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.cpp" > CMakeFiles/lab9.dir/node.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.cpp" > CMakeFiles/lab9.dir/node.cpp.i
 
 CMakeFiles/lab9.dir/node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab9.dir/node.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.cpp" -o CMakeFiles/lab9.dir/node.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.cpp" -o CMakeFiles/lab9.dir/node.cpp.s
 
 CMakeFiles/lab9.dir/treeNode.cpp.o: CMakeFiles/lab9.dir/flags.make
 CMakeFiles/lab9.dir/treeNode.cpp.o: ../treeNode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/lab9.dir/treeNode.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9.dir/treeNode.cpp.o -c "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/lab9.dir/treeNode.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9.dir/treeNode.cpp.o -c "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.cpp"
 
 CMakeFiles/lab9.dir/treeNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab9.dir/treeNode.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.cpp" > CMakeFiles/lab9.dir/treeNode.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.cpp" > CMakeFiles/lab9.dir/treeNode.cpp.i
 
 CMakeFiles/lab9.dir/treeNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab9.dir/treeNode.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.cpp" -o CMakeFiles/lab9.dir/treeNode.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.cpp" -o CMakeFiles/lab9.dir/treeNode.cpp.s
 
 # Object files for target lab9
 lab9_OBJECTS = \
@@ -130,7 +130,7 @@ lab9: CMakeFiles/lab9.dir/node.cpp.o
 lab9: CMakeFiles/lab9.dir/treeNode.cpp.o
 lab9: CMakeFiles/lab9.dir/build.make
 lab9: CMakeFiles/lab9.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable lab9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable lab9"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab9.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -143,6 +143,6 @@ CMakeFiles/lab9.dir/clean:
 .PHONY : CMakeFiles/lab9.dir/clean
 
 CMakeFiles/lab9.dir/depend:
-	cd "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9" "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9" "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug" "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug" "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/CMakeFiles/lab9.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9" "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9" "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug" "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug" "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/CMakeFiles/lab9.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/lab9.dir/depend
 

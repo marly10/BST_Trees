@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab9" targetName="lab9" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81429bfc-f5e2-4a96-9ea3-3239302ab6ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/lab9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/node.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/node.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/treeNode.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/treeNode.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lab9" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lab9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lab9.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lab9.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/treeNode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/treeNode.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jOUMKhYH852MBYNL64PFRCX4yX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab9" TARGET_NAME="lab9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab9" RUN_TARGET_NAME="lab9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81429bfc-f5e2-4a96-9ea3-3239302ab6ea" name="Default Changelist" comment="" />
+      <created>1603674584424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603674584424</updated>
+      <workItem from="1603674587432" duration="7181000" />
+      <workItem from="1603731078666" duration="5790000" />
+      <workItem from="1603742921402" duration="1797000" />
+      <workItem from="1603755584987" duration="254000" />
+      <workItem from="1603767379192" duration="266000" />
+      <workItem from="1603831970117" duration="175000" />
+      <workItem from="1603851180292" duration="406000" />
+      <workItem from="1603902452108" duration="2694000" />
+      <workItem from="1603906987514" duration="214000" />
+      <workItem from="1603907699992" duration="122000" />
+      <workItem from="1603907971424" duration="957000" />
+      <workItem from="1603909040528" duration="703000" />
+      <workItem from="1603914011732" duration="756000" />
+      <workItem from="1603925699498" duration="624000" />
+      <workItem from="1603998962582" duration="169000" />
+      <workItem from="1604278531951" duration="18000" />
+      <workItem from="1606160779508" duration="737000" />
+      <workItem from="1606759938576" duration="185000" />
+      <workItem from="1607448881446" duration="1637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1864" y="31" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606759988513">
+      <screen x="1440" y="-155" width="1920" height="1055" />
+    </state>
+    <state x="1864" y="31" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/3360.-155.1920.1055/1440.-155.1920.1055/0.25.1440.823@1440.-155.1920.1055" timestamp="1606759988513" />
+    <state x="2088" y="114" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603731035621">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="2088" y="114" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.834@1440.-157.1920.1057" timestamp="1603731035621" />
+    <state width="1858" height="355" key="GridCell.Tab.0.bottom" timestamp="1607451025407">
+      <screen x="1440" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1398" height="548" key="GridCell.Tab.0.bottom/1440.-157.1920.1014/3360.-157.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1603928654445" />
+    <state width="1878" height="150" key="GridCell.Tab.0.bottom/1440.-157.1920.1014/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1014" timestamp="1603856948268" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.834@1440.-157.1920.1057" timestamp="1603740093209" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1603906256991" />
+    <state width="1398" height="20" key="GridCell.Tab.0.bottom/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1057" timestamp="1603910358927" />
+    <state width="1398" height="503" key="GridCell.Tab.0.bottom/3360.-155.1920.1055/1440.-155.1920.1055/0.25.1440.823@1440.-155.1920.1055" timestamp="1606160805787" />
+    <state width="1858" height="355" key="GridCell.Tab.0.bottom/3360.-155.1920.1055/1440.-155.1920.1055/0.25.1440.826@1440.-155.1920.1055" timestamp="1607451025407" />
+    <state width="1858" height="355" key="GridCell.Tab.0.center" timestamp="1607451025406">
+      <screen x="1440" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1398" height="548" key="GridCell.Tab.0.center/1440.-157.1920.1014/3360.-157.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1603928654445" />
+    <state width="1878" height="150" key="GridCell.Tab.0.center/1440.-157.1920.1014/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1014" timestamp="1603856948267" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.834@1440.-157.1920.1057" timestamp="1603740093209" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1603906256991" />
+    <state width="1398" height="20" key="GridCell.Tab.0.center/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1057" timestamp="1603910358927" />
+    <state width="1398" height="503" key="GridCell.Tab.0.center/3360.-155.1920.1055/1440.-155.1920.1055/0.25.1440.823@1440.-155.1920.1055" timestamp="1606160805786" />
+    <state width="1858" height="355" key="GridCell.Tab.0.center/3360.-155.1920.1055/1440.-155.1920.1055/0.25.1440.826@1440.-155.1920.1055" timestamp="1607451025406" />
+    <state width="1858" height="355" key="GridCell.Tab.0.left" timestamp="1607451025406">
+      <screen x="1440" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1398" height="548" key="GridCell.Tab.0.left/1440.-157.1920.1014/3360.-157.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1603928654444" />
+    <state width="1878" height="150" key="GridCell.Tab.0.left/1440.-157.1920.1014/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1014" timestamp="1603856948266" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.834@1440.-157.1920.1057" timestamp="1603740093208" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1603906256990" />
+    <state width="1398" height="20" key="GridCell.Tab.0.left/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1057" timestamp="1603910358926" />
+    <state width="1398" height="503" key="GridCell.Tab.0.left/3360.-155.1920.1055/1440.-155.1920.1055/0.25.1440.823@1440.-155.1920.1055" timestamp="1606160805786" />
+    <state width="1858" height="355" key="GridCell.Tab.0.left/3360.-155.1920.1055/1440.-155.1920.1055/0.25.1440.826@1440.-155.1920.1055" timestamp="1607451025406" />
+    <state width="1858" height="355" key="GridCell.Tab.0.right" timestamp="1607451025406">
+      <screen x="1440" y="-155" width="1920" height="1055" />
+    </state>
+    <state width="1398" height="548" key="GridCell.Tab.0.right/1440.-157.1920.1014/3360.-157.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1603928654445" />
+    <state width="1878" height="150" key="GridCell.Tab.0.right/1440.-157.1920.1014/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1014" timestamp="1603856948267" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.834@1440.-157.1920.1057" timestamp="1603740093209" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1603906256991" />
+    <state width="1398" height="20" key="GridCell.Tab.0.right/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1057" timestamp="1603910358927" />
+    <state width="1398" height="503" key="GridCell.Tab.0.right/3360.-155.1920.1055/1440.-155.1920.1055/0.25.1440.823@1440.-155.1920.1055" timestamp="1606160805787" />
+    <state width="1858" height="355" key="GridCell.Tab.0.right/3360.-155.1920.1055/1440.-155.1920.1055/0.25.1440.826@1440.-155.1920.1055" timestamp="1607451025406" />
+    <state width="1398" height="230" key="GridCell.Tab.1.bottom" timestamp="1603909037086">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.bottom/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.834@1440.-157.1920.1057" timestamp="1603740093211" />
+    <state width="1398" height="230" key="GridCell.Tab.1.bottom/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1057" timestamp="1603909037086" />
+    <state width="1398" height="230" key="GridCell.Tab.1.center" timestamp="1603909037085">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.center/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.834@1440.-157.1920.1057" timestamp="1603740093210" />
+    <state width="1398" height="230" key="GridCell.Tab.1.center/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1057" timestamp="1603909037085" />
+    <state width="1398" height="230" key="GridCell.Tab.1.left" timestamp="1603909037085">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.left/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.834@1440.-157.1920.1057" timestamp="1603740093210" />
+    <state width="1398" height="230" key="GridCell.Tab.1.left/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1057" timestamp="1603909037085" />
+    <state width="1398" height="230" key="GridCell.Tab.1.right" timestamp="1603909037086">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.right/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.834@1440.-157.1920.1057" timestamp="1603740093210" />
+    <state width="1398" height="230" key="GridCell.Tab.1.right/1440.-157.1920.1057/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1057" timestamp="1603909037086" />
+    <state x="1909" y="-11" key="SettingsEditor" timestamp="1603767501570">
+      <screen x="1440" y="-157" width="1920" height="1014" />
+    </state>
+    <state x="1909" y="-11" key="SettingsEditor/1440.-157.1920.1014/3360.-157.1920.1057/0.23.1440.877@1440.-157.1920.1014" timestamp="1603767501570" />
+  </component>
+</project>

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9
+# Install script for directory: /Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

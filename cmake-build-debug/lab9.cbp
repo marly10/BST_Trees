@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"/>
+				<Option working_dir="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"/>
+				<Option working_dir="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"/>
+				<Option working_dir="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lab9">
-				<Option output="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/lab9" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"/>
+				<Option output="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/lab9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab9"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab9"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lab9/fast">
-				<Option output="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/lab9" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"/>
+				<Option output="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug/lab9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,29 +73,29 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab9/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab9/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052\ -\ Data\ Structures\ In\ C++\ /hw_c/lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/main.cpp">
+		<Unit filename="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/main.cpp">
 			<Option target="lab9"/>
 		</Unit>
-		<Unit filename="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.cpp">
+		<Unit filename="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.cpp">
 			<Option target="lab9"/>
 		</Unit>
-		<Unit filename="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.h">
+		<Unit filename="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/node.h">
 			<Option target="lab9"/>
 		</Unit>
-		<Unit filename="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.cpp">
+		<Unit filename="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.cpp">
 			<Option target="lab9"/>
 		</Unit>
-		<Unit filename="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.h">
+		<Unit filename="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/treeNode.h">
 			<Option target="lab9"/>
 		</Unit>
-		<Unit filename="/Users/rickymarly/Desktop/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/CMakeLists.txt">
+		<Unit filename="/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab9/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

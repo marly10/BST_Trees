@@ -16,7 +16,7 @@ treeNode::treeNode()
 //private version treeNode::insert
 void treeNode::insertTreeNode(node* newOtherNode, int newAddInt)//public version being used to insert
 {
-    if(newOtherNode->getNumberData() > newAddInt)//inserting new node to the right BST order
+    if(newOtherNode->getNumberData() > newAddInt)//inserting new node to the left BST order
     {
         if(newOtherNode->getLeft() != nullptr)//check if node is null
         {
@@ -27,7 +27,7 @@ void treeNode::insertTreeNode(node* newOtherNode, int newAddInt)//public version
             newOtherNode->setLeft(new node(newAddInt));//node on left is null ( newAddInt ) new node
         }
     }
-    if(newOtherNode->getNumberData() < newAddInt)//inserting new node to the left BST order
+    if(newOtherNode->getNumberData() < newAddInt)//inserting new node to the Right BST order
     {
         if(newOtherNode->getRight() != nullptr)//check if node is null
         {
@@ -102,7 +102,7 @@ int treeNode::findTreeNode(node* newOtherNode, int newFindInt)
     }
     if(newOtherNode->getNumberData() == newFindInt)//ensure the node found at the end is printed
     {
-        cout << newOtherNode->getNumberData() << " ";
+        cout << newOtherNode->getNumberData() << " Number found: ";
         return newOtherNode->getNumberData();
     }
     if (newOtherNode->getNumberData() > newFindInt)//the value is located at the left of the tree(root)
